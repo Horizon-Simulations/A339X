@@ -221,7 +221,7 @@
     "safe-stable-stringify": "^2.3.1",
     "sass": "^1.45.1",
     "semver": "^7.3.8",
-    "simple-keyboard-layouts": "^3.1.32",
+    "simple-keyboard-layouts": "^3.3.21",
     "tailwindcss": "^2.2.2",
     "use-long-press": "^1.1.2",
     "uuid": "^9.0.0",
