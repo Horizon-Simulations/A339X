@@ -34,11 +34,15 @@ Cargo.toml
 
 !hdw-a339x/src/base/manifest-base.json
 !package.json
+!pnpm-lock.yaml
 
 !jest.config.js
 !/jest/**
 
-!CMakeLists.txt
+CMakeLists.txt
+!CMakeLists-A333X.txt
+!CMakeLists-A339X.txt
+!CMakeLists-SU95X.txt
 
 # Project folders
 
@@ -142,8 +146,9 @@ Cargo.toml
 # explicit exclusions
 /.env
 node_modules/
-obj/
 target/
+obj/
+cmake-build*/
 *.tgz
 *.wasm
 
